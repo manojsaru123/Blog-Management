@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="C:\Users\Dell\PycharmProjects\dummy\users\migrations\0001_initial.py" uuid="23cc150b-0788-49d2-924e-f22e75333597">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>C:\Users\Dell\PycharmProjects\dummy\users\migrations\0001_initial.py</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Django default" uuid="277320dc-e91c-4e36-86b0-8d41674a6ec9">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/dummy/settings.py</remarks>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\Dell\PycharmProjects\dummy\db.sqlite3</jdbc-url>
+    </data-source>
+  </component>
+</project>
