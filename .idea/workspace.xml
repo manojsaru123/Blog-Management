@@ -4,6 +4,7 @@
     <list default="true" id="58f1b538-f47b-4161-a095-4261dfcb07ad" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/blog/user_posts.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/blog/user_posts.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,10 +74,11 @@
   <component name="ProjectId" id="1U67K6TVSJ7UwWf4gwW7uPw9E7R" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="sqlite" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/New folder (2)/Blog-Management" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -164,7 +166,8 @@
       <workItem from="1575875328796" duration="1410000" />
       <workItem from="1575877752257" duration="3130000" />
       <workItem from="1575953935989" duration="3419000" />
-      <workItem from="1576040374386" duration="3898000" />
+      <workItem from="1576040374386" duration="7707000" />
+      <workItem from="1576055149883" duration="1506000" />
     </task>
     <servers />
   </component>
