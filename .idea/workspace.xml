@@ -4,8 +4,6 @@
     <list default="true" id="58f1b538-f47b-4161-a095-4261dfcb07ad" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/blog/user_posts.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/blog/user_posts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/forms.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -166,7 +164,7 @@
       <workItem from="1575875328796" duration="1410000" />
       <workItem from="1575877752257" duration="3130000" />
       <workItem from="1575953935989" duration="3419000" />
-      <workItem from="1576040374386" duration="1945000" />
+      <workItem from="1576040374386" duration="3898000" />
     </task>
     <servers />
   </component>
